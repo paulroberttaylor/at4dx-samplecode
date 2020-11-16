@@ -35,6 +35,10 @@
     {
         "path": "sfdx-source/reference-implementation-service",
         "default": false
+    },
+    {
+        "path": "sfdx-source/ui",
+        "default": false
     }
   ],
   "namespace": "",
